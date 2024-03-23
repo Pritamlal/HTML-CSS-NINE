@@ -1,0 +1,238 @@
+body{
+    background: url('image1.jpeg');
+    height:1200px;
+    
+}
+
+.header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.first
+{
+    color:orange;
+    font-size: 45px;
+    font-weight: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.second
+{
+    color:black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.third
+{
+    color:black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.four
+{
+    color:black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.five
+{
+    color:black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.lastbox
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+}
+
+.textbox
+{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 250px;
+    margin-right:-20px;
+}
+
+.btn
+{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover{
+    background-color: #0056b3;
+}
+
+.middle
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 300px;
+    margin-left: 250px;
+   
+}
+
+.line1
+{
+    color:white;
+    font-size: 90px;
+}
+
+.line2
+{
+    color:orange;
+    font-size: 130px;
+}
+
+.line3
+{
+    color:white;
+    font-size: 90px;
+    
+}
+.line4
+{
+    line-height: 1.5;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.box{
+    height: 600px;
+    width:450px;
+    border-style:solid;
+    border-color: rgb(206, 200, 200);
+    background-color: rgb(56, 56, 56);
+    border-radius: 25px;
+}
+
+.btn2
+{
+    width:230px;
+    margin-left:110px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    height:50px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+}
+
+.boxy
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+    
+}
+
+.boxy1
+{
+    height:45px;
+    margin-left:30px;
+    margin-right:30px;
+    border-top:none;
+    border-right:none;
+    border-left: none;
+    background:transparent;
+}
+
+.boxy2
+{
+    height:45px;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:25px;
+    border-top:none;
+    border-right:none;
+    border-left: none;
+    background:transparent;
+}
+
+.btn3
+{
+    margin-top: 55px;
+    width:300px;
+    margin-left:80px; 
+    margin-right: 150px;
+    background-color: #007bff;
+    border: none;
+    margin-right:25px;
+    height:50px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.signuplink
+{
+    margin-top:45px;
+    margin-left:80px;
+    font-size: 22px;
+}
+
+.sente
+{
+    margin-left:155px;
+    margin-top:35px;
+    font-size: 25px;
+}
+
+.social-media
+{
+    margin-top:35px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.fb
+{
+    font-size: 35px;
+    color:white;
+}
+
+.tw
+{
+    font-size: 35px;
+    color:white;   
+}
+
+.ins
+{
+    font-size: 35px;
+    color:white;   
+}
+
+.utube
+{
+    font-size: 35px;
+    color:white;    
+}
+
+
